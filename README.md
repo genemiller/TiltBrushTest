@@ -1,4 +1,4 @@
-# AR-AlphaTest
+# TiltBrush
 
 Unity Project containing three of Darcy Gerbarg’s artworks for the AR Installation Alpha Test.
 - Initial release 6/15/2021
